@@ -1,5 +1,5 @@
 # Git
-Descrição de todos os comandos Git mais comumente usados:
+Comandos Git comumente usados:
 
 ## Comandos Básicos:
 
