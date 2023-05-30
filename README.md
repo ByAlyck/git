@@ -132,4 +132,4 @@ Comandos Git comumente usados:
 
 56. `git stash branch --track <nome_branch> <stash>`: Cria uma nova branch a partir de uma stash específica, definindo-a como a upstream da branch remota correspondente.
 
-Esses são apenas alguns dos comandos Git mais comumente usados. O Git possui uma ampla gama de recursos e comandos adicionais que podem ser explorados. O Git é um sistema de controle de versão amplamente utilizado na área de desenvolvimento de software. Ele foi criado por Linus Torvalds em 2005 e se tornou uma ferramenta essencial para colaboração em projetos de programação.
+Esses são apenas alguns dos comandos Git mais comumente usados. O Git possui uma ampla gama de recursos e comandos adicionais que podem ser explorados. O Git é um sistema de controle de versão amplamente utilizado na área de desenvolvimento de software. Ele foi criado por Linus Torvalds em 2005 e se tornou uma ferramenta essencial para colaboração em projetos de programação. Ele oferece um ambiente seguro, escalável e eficiente para controlar e gerenciar projetos de software, promovendo a colaboração e melhorando a produtividade dos desenvolvedores.
