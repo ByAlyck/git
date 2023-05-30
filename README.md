@@ -114,7 +114,7 @@ Comandos Git comumente usados:
 46. `git stash drop`: Remove a stash mais recente.
 
 47. `git stash branch <nome_branch>`: Cria uma nova branch a partir de uma stash específica.
-48. 48. `git stash clear`: Remove todas as stashs existentes.
+48. `git stash clear`: Remove todas as stashs existentes.
 
 49. `git stash save "<mensagem>"`: Salva as alterações não confirmadas em uma área de stash temporária, adicionando uma mensagem descritiva.
 
