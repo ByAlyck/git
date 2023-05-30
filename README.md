@@ -60,11 +60,8 @@ Comandos Git comumente usados:
 23. `git remote add <nome_remoto> <url_do_repositorio>`: Adiciona um novo repositório remoto com o nome especificado e a URL fornecida.
 
 24. `git remote -v`: Lista todos os repositórios.
-25. Peço desculpas novamente pela resposta incompleta. Aqui está o restante da lista de comandos Git:
 
-## Trabalhando com Repositórios Remotos (continuação):
-
-25. `git remote remove <nome_remoto>`: Remove um repositório remoto com o nome especificado.
+27. `git remote remove <nome_remoto>`: Remove um repositório remoto com o nome especificado.
 
 26. `git fetch <nome_remoto>`: Busca todas as branches e tags do repositório remoto especificado.
 
