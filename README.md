@@ -1,4 +1,4 @@
-# 🐙 𝗚𝗶𝘁
+# 🐙 𝗚𝗶𝘁 .
 Comandos Git comumente usados:
 
 ## Comandos Básicos:
